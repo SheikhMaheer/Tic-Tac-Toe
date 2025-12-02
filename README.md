@@ -5,3 +5,4 @@
 - Include a "Start Game" button and a "Reset Game" option
 - Include an intersting sound effect for every click
 - The game sound becomes more exciting when you win
+- Your winnings will be highlighted with a line
